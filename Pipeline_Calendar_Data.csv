@@ -1,0 +1,151 @@
+Section,Group,Region,Activity,Start_Month,End_Month,Note,Remarks,Workflow,Category,Event,Col_Seq,Month,Year
+HANDOFF,PANSEA,Philippines (ME1 & 3),Planting,3,5,,"Currently, this timeline is not being met. Hence, proposal is to use GWS SC2 lines from Mexico to be shipped to Hawaii for conversion. TH PS1 NS will help reduce time.",,,,,,
+HANDOFF,PANSEA,Philippines (ME1 & 3),Harvesting,9,10,,"Currently, this timeline is not being met. Hence, proposal is to use GWS SC2 lines from Mexico to be shipped to Hawaii for conversion. TH PS1 NS will help reduce time.",,,,,,
+HANDOFF,PANSEA,Philippines (ME1 & 3),Advancement,10,10,,"Currently, this timeline is not being met. Hence, proposal is to use GWS SC2 lines from Mexico to be shipped to Hawaii for conversion. TH PS1 NS will help reduce time.",,,,,,
+HANDOFF,PANSEA,Philippines (ME1 & 3),Trait Handoff,4,4,,"Currently, this timeline is not being met. Hence, proposal is to use GWS SC2 lines from Mexico to be shipped to Hawaii for conversion. TH PS1 NS will help reduce time.",,,,,,
+HANDOFF,PANSEA,Philippines (ME1 & 3),HMU/SPR Handoff,10,10,,"Currently, this timeline is not being met. Hence, proposal is to use GWS SC2 lines from Mexico to be shipped to Hawaii for conversion. TH PS1 NS will help reduce time.",,,,,,
+HANDOFF,Indonesia,Indonesia (Dry_Flat_ Undulated_DM),Planting,6,8,,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Dry_Flat_ Undulated_DM),Harvesting,11,12,,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Dry_Flat_ Undulated_DM),Advancement,12,12,,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Dry_Flat_ Undulated_DM),Trait Handoff,1,3,,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Dry_Flat_ Undulated_DM),HMU/SPR Handoff,1,2,,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Wet_Slopy_ Undulated_ID),Planting,6,6,gen0,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Wet_Slopy_ Undulated_ID),Planting,9,11,trials,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Wet_Slopy_ Undulated_ID),Harvesting,11,11,gen0,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Wet_Slopy_ Undulated_ID),Harvesting,3,3,trials,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Wet_Slopy_ Undulated_ID),Advancement,3,4,,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Wet_Slopy_ Undulated_ID),Trait Handoff,3,4,,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Indonesia,Indonesia (Wet_Slopy_ Undulated_ID),HMU/SPR Handoff,2,3,,"Need Alignment on SD conversion. Whether we go for conversion or leverage SSC lines from Thailand through FWD breeding, which can be converted for VT2PRO+DM based on advancement",,,,,,
+HANDOFF,Pakistan,Pak_ME4_Autumn_Yellow,Planting,6,6,,Hand off timelines will change once Govt gives clarity on trait approvals. Product stage will move to PS4 once VT2PRO is launched. CMS and FWD Breeding based SD lines from TH & IND can used in pipeline and converted.,,,,,,
+HANDOFF,Pakistan,Pak_ME4_Autumn_Yellow,Harvesting,10,11,,Hand off timelines will change once Govt gives clarity on trait approvals. Product stage will move to PS4 once VT2PRO is launched. CMS and FWD Breeding based SD lines from TH & IND can used in pipeline and converted.,,,,,,
+HANDOFF,Pakistan,Pak_ME4_Autumn_Yellow,Advancement,11,11,,Hand off timelines will change once Govt gives clarity on trait approvals. Product stage will move to PS4 once VT2PRO is launched. CMS and FWD Breeding based SD lines from TH & IND can used in pipeline and converted.,,,,,,
+HANDOFF,Pakistan,Pak_ME4_Autumn_Yellow,Trait Handoff,10,11,previous yr,Hand off timelines will change once Govt gives clarity on trait approvals. Product stage will move to PS4 once VT2PRO is launched. CMS and FWD Breeding based SD lines from TH & IND can used in pipeline and converted.,,,,,,
+HANDOFF,Pakistan,Pak_ME4_Autumn_Yellow,HMU/SPR Handoff,9,10,,Hand off timelines will change once Govt gives clarity on trait approvals. Product stage will move to PS4 once VT2PRO is launched. CMS and FWD Breeding based SD lines from TH & IND can used in pipeline and converted.,,,,,,
+HANDOFF,Pakistan,Pak_ME6_Spring,Planting,3,3,gen0,Need LT support to align with NA Pre commercial team to increase trait lines and with SPR to conduct SPR trials. Will move to PS4 trait testing once Govt approves trait. Need alignment on CMS conversion. SD lines can be directly used from NA pipeline.,,,,,,
+HANDOFF,Pakistan,Pak_ME6_Spring,Planting,2,2,trials,Need LT support to align with NA Pre commercial team to increase trait lines and with SPR to conduct SPR trials. Will move to PS4 trait testing once Govt approves trait. Need alignment on CMS conversion. SD lines can be directly used from NA pipeline.,,,,,,
+HANDOFF,Pakistan,Pak_ME6_Spring,Harvesting,9,9,gen0,Need LT support to align with NA Pre commercial team to increase trait lines and with SPR to conduct SPR trials. Will move to PS4 trait testing once Govt approves trait. Need alignment on CMS conversion. SD lines can be directly used from NA pipeline.,,,,,,
+HANDOFF,Pakistan,Pak_ME6_Spring,Harvesting,7,7,trials,Need LT support to align with NA Pre commercial team to increase trait lines and with SPR to conduct SPR trials. Will move to PS4 trait testing once Govt approves trait. Need alignment on CMS conversion. SD lines can be directly used from NA pipeline.,,,,,,
+HANDOFF,Pakistan,Pak_ME6_Spring,Advancement,7,7,,Need LT support to align with NA Pre commercial team to increase trait lines and with SPR to conduct SPR trials. Will move to PS4 trait testing once Govt approves trait. Need alignment on CMS conversion. SD lines can be directly used from NA pipeline.,,,,,,
+HANDOFF,Pakistan,Pak_ME6_Spring,Trait Handoff,2,2,,Need LT support to align with NA Pre commercial team to increase trait lines and with SPR to conduct SPR trials. Will move to PS4 trait testing once Govt approves trait. Need alignment on CMS conversion. SD lines can be directly used from NA pipeline.,,,,,,
+HANDOFF,Pakistan,Pak_ME6_Spring,HMU/SPR Handoff,3,3,usa,Need LT support to align with NA Pre commercial team to increase trait lines and with SPR to conduct SPR trials. Will move to PS4 trait testing once Govt approves trait. Need alignment on CMS conversion. SD lines can be directly used from NA pipeline.,,,,,,
+HANDOFF,PANSEA,Thailand (Flat & Hilly),Planting,10,10,gen0,"Thailand lines are being used in PHL ME1 and in both the pipelines of IDN. We can focus on only CMS conversion of female lines for Thailand. All PS1 lines can be converted to both VT2PRO, TRECEPTA & HTT for use in PHL & IDN",,,,,,
+HANDOFF,PANSEA,Thailand (Flat & Hilly),Planting,4,6,trials,"Thailand lines are being used in PHL ME1 and in both the pipelines of IDN. We can focus on only CMS conversion of female lines for Thailand. All PS1 lines can be converted to both VT2PRO, TRECEPTA & HTT for use in PHL & IDN",,,,,,
+HANDOFF,PANSEA,Thailand (Flat & Hilly),Harvesting,2,11,gen0 trials,"Thailand lines are being used in PHL ME1 and in both the pipelines of IDN. We can focus on only CMS conversion of female lines for Thailand. All PS1 lines can be converted to both VT2PRO, TRECEPTA & HTT for use in PHL & IDN",,,,,,
+HANDOFF,PANSEA,Thailand (Flat & Hilly),Advancement,11,12,,"Thailand lines are being used in PHL ME1 and in both the pipelines of IDN. We can focus on only CMS conversion of female lines for Thailand. All PS1 lines can be converted to both VT2PRO, TRECEPTA & HTT for use in PHL & IDN",,,,,,
+HANDOFF,PANSEA,Thailand (Flat & Hilly),Trait Handoff,10,11,previous yr,"Thailand lines are being used in PHL ME1 and in both the pipelines of IDN. We can focus on only CMS conversion of female lines for Thailand. All PS1 lines can be converted to both VT2PRO, TRECEPTA & HTT for use in PHL & IDN",,,,,,
+HANDOFF,PANSEA,Thailand (Flat & Hilly),HMU/SPR Handoff,10,11,,"Thailand lines are being used in PHL ME1 and in both the pipelines of IDN. We can focus on only CMS conversion of female lines for Thailand. All PS1 lines can be converted to both VT2PRO, TRECEPTA & HTT for use in PHL & IDN",,,,,,
+HANDOFF,India,India ME1 & ME2,Planting,11,11,gen0,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,India ME1 & ME2,Planting,4,6,trials,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,India ME1 & ME2,Harvesting,3,3,gen0,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,India ME1 & ME2,Harvesting,10,11,trials,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,India ME1 & ME2,Advancement,10,11,,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,India ME1 & ME2,Trait Handoff,10,11,previous yr,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,India ME1 & ME2,HMU/SPR Handoff,10,11,,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,"India ME4, 5 & 6",Planting,10,10,gen0,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,"India ME4, 5 & 6",Planting,2,2,trials,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,"India ME4, 5 & 6",Harvesting,3,3,gen0,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,"India ME4, 5 & 6",Harvesting,7,7,trials,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,"India ME4, 5 & 6",Advancement,7,7,,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,"India ME4, 5 & 6",Trait Handoff,10,11,previous yr,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,"India ME4, 5 & 6",HMU/SPR Handoff,10,10,previous spr,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+HANDOFF,India,"India ME4, 5 & 6",HMU/SPR Handoff,9,9,hmu,"If PS4 testing of CMS is required until 2029, then PS1 conversion needs to be considered. After 2029 PS1 lines will be sent for VT2PRO conversion.",,,,,,
+PIPELINE,,,,,,,,ME1_HMU,HMU,SC2_HMU@TH,8,Nov,Year1
+PIPELINE,,,,,,,,ME1_HMU,HMU,P1_HMU@TH,20,Nov,Year2
+PIPELINE,,,,,,,,ME1_HMU,HMU,P2_HMU@PHL,31,Oct,Year3
+PIPELINE,,,,,,,,ME1_HMU,HMU,P3_HMU@PHL,43,Oct,Year4
+PIPELINE,,,,,,,,ME1_HMU,HMU,P4_HMU@PHL,55,Oct,Year5
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,SC2_Testing@TH,13,Apr,Year1
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,FL_Adv,19,Oct,Year2
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,HL_Adv,21,Dec,Year2
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,P1_Testing@TH,25,Apr,Year2
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,FL_Adv,31,Oct,Year3
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,HL_Adv,33,Dec,Year3
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,P2_Testing@PHL,36,Mar,Year3
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,Adv,43,Oct,Year4
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,P3_Testing@PHL,48,Mar,Year4
+PIPELINE,,,,,,,,ME1_Testing stage,Testing,Adv,55,Oct,Year5
+PIPELINE,,,,,,,,ME3_HMU,HMU,SC2_HMU@TH,4,Jul,Year1
+PIPELINE,,,,,,,,ME3_HMU,HMU,Ship to PHL,9,Dec,Year1
+PIPELINE,,,,,,,,ME3_HMU,HMU,P1_HMU@PHL,19,Oct,Year2
+PIPELINE,,,,,,,,ME3_HMU,HMU,P2_HMU@PHL,31,Oct,Year3
+PIPELINE,,,,,,,,ME3_HMU,HMU,P3_HMU@PHL,43,Oct,Year4
+PIPELINE,,,,,,,,ME3_HMU,HMU,P4_HMU@PHL,55,Oct,Year5
+PIPELINE,,,,,,,,ME3_Testing stage,Testing,SC2_Testing@PHL,12,Mar,Year1
+PIPELINE,,,,,,,,ME3_Testing stage,Testing,Adv,19,Oct,Year2
+PIPELINE,,,,,,,,ME3_Testing stage,Testing,P1_Testing@PHL,24,Mar,Year2
+PIPELINE,,,,,,,,ME3_Testing stage,Testing,Adv,31,Oct,Year3
+PIPELINE,,,,,,,,ME3_Testing stage,Testing,P2_Testing@PHL,36,Mar,Year3
+PIPELINE,,,,,,,,ME3_Testing stage,Testing,Adv,43,Oct,Year4
+PIPELINE,,,,,,,,ME3_Testing stage,Testing,P3_Testing@PHL,48,Mar,Year4
+PIPELINE,,,,,,,,ME3_Testing stage,Testing,Adv,55,Oct,Year5
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,DH1 harvesting,1,Apr,year0
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,Ship seed back to Thailand,2,May,year0
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,Inc DH2 @TH,4,Jul,Year1
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,Inc SC2 seed @TH,8,Nov,Year1
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,Ship to Mexico & prepare seed,12,Mar,Year1
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,Inc seed @ Mexico for Ti_NS,15,Jun,Year2
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,Ship to Hawaii & prepare seed,20,Nov,Year2
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,NM1 CY2 at P1,22,Jan,Year2
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,NM2 CY3,26,May,Year2
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,NM3 CY1,30,Sep,Year3
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,MK1 CY2,34,Jan,Year3
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,MK2 CY3,38,May,Year3
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,MK2 CY1,42,Sep,Year4
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,ZY CY2,46,Jan,Year4
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,INC CY3,50,May,Year4
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,HO to PHL_Precom,54,Sep,Year5
+PIPELINE,,,,,,,,Current forward breeding Ti_workflow,Workflow,BHO received and G0 inc,56,Nov,Year5
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,DH1 harvesting,1,Apr,year0
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,Request Mexico packing set to increase in winter,2,May,year0
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,Ship seed back to Thailand,3,Jun,Year1
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,Inc seed @ Mexico for Ti_NS,7,Oct,Year1
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,Ship to Hawaii & prepare seed,12,Mar,Year1
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,NM1 CY3 at SC2T,14,May,Year1
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,NM2 CY1,18,Sep,Year2
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,NM3 CY2,22,Jan,Year2
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,MK1 CY3,26,May,Year2
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,MK2 CY1,30,Sep,Year3
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,MK2 CY2,34,Jan,Year3
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,ZY CY3,38,May,Year3
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,INC CY1,42,Sep,Year4
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,HO to PHL_Precom,47,Feb,Year4
+PIPELINE,,,,,,,,Option1 forward breeding Ti_workflow,Workflow,BHO received G0 inc,49,Apr,Year4
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,DH1 harvesting,1,Apr,year0
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,Inc DH2 @ Mexico,2,May,year0
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,Ship seed to Thailand & Hawaii,7,Oct,Year1
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,NM1 CY2 at SC2P,10,Jan,Year1
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,NM2 CY3,14,May,Year1
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,NM3 CY1,18,Sep,Year2
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,MK1 CY2,22,Jan,Year2
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,MK2 CY3,26,May,Year2
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,MK2 CY1,30,Sep,Year3
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,ZY CY2,34,Jan,Year3
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,INC CY3,38,May,Year3
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,1 season buffer,42,Sep,Year4
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,HO to PHL_Precom,47,Feb,Year4
+PIPELINE,,,,,,,,Option2 forward breeding Ti_workflow,Workflow,BHO received G0 inc,49,Apr,Year4
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,Ship to Mexico & prepare seed,36,Mar,Year3
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,Inc seed @ Mexico for Ti_NS,39,Jun,Year4
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,Ship to Hawaii & prepare seed,44,Nov,Year4
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,NM1 CY2 at P3,46,Jan,Year4
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,NM2 CY3,50,May,Year4
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,NM2 CY1,54,Sep,Year5
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,MK1 CY2,58,Jan,Year5
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,MK2 CY3,62,May,Year5
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,MK2 CY1,66,Sep,Year6
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,ZY CY2,70,Jan,Year6
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,INC CY3,74,May,Year6
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,HO to PHL_Precom,78,Sep,Year7
+PIPELINE,,,,,,,,Current Hunch Ti_workflow,Workflow,BHO received and G0 inc,80,Nov,Year7
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,Ship to Mexico & prepare seed,33,Dec,Year3
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,Inc seed @ Mexico for Ti_NS,36,Mar,Year3
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,Ship to Hawaii & prepare seed,41,Aug,Year4
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,NM1 CY1 at P2,42,Sep,Year4
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,NM2 CY3,46,Jan,Year4
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,NM2 CY3,50,May,Year4
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,MK1 CY1,54,Sep,Year5
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,MK2 CY2,58,Jan,Year5
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,ZY CY3,62,May,Year5
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,INC CY1,66,Sep,Year6
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,HO to PHL_Precom,70,Jan,Year6
+PIPELINE,,,,,,,,Option1 Hunch Ti_workflow,Workflow,BHO received G0 inc,72,Mar,Year6

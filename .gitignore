@@ -1,0 +1,9 @@
+# Large/binary files not needed on GitHub Pages
+NS proposal.vsdx
+
+# Old input files (replaced by Pipeline_Calendar_Data.csv)
+HO_Calendar.csv
+Pipeline_Activities.csv
+
+# Old Shiny app (replaced by static HTML report)
+app.R
